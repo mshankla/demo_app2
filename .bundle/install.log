@@ -1,0 +1,217 @@
+# Logfile created on 2014-01-01 17:35:44 -0500 by logger.rb/41954
+I, [2014-01-01T17:35:44.823405 #8748]  INFO -- : 0:  rake (10.1.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rake-10.1.1.gemspec
+I, [2014-01-01T17:35:44.823755 #8748]  INFO -- : 0:  i18n (0.6.9) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/i18n-0.6.9.gemspec
+I, [2014-01-01T17:35:44.824004 #8748]  INFO -- : 0:  minitest (4.7.5) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/minitest-4.7.5.gemspec
+I, [2014-01-01T17:35:44.824239 #8748]  INFO -- : 0:  multi_json (1.8.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-01T17:35:44.824466 #8748]  INFO -- : 0:  atomic (1.1.14) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/atomic-1.1.14.gemspec
+I, [2014-01-01T17:35:44.824694 #8748]  INFO -- : 0:  thread_safe (0.1.3) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-01T17:35:44.824920 #8748]  INFO -- : 0:  tzinfo (0.3.38) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-01T17:35:44.825142 #8748]  INFO -- : 0:  activesupport (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-01T17:35:44.825364 #8748]  INFO -- : 0:  builder (3.1.4) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/builder-3.1.4.gemspec
+I, [2014-01-01T17:35:44.825583 #8748]  INFO -- : 0:  erubis (2.7.0) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/erubis-2.7.0.gemspec
+I, [2014-01-01T17:35:44.825812 #8748]  INFO -- : 0:  rack (1.5.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rack-1.5.2.gemspec
+I, [2014-01-01T17:35:44.826029 #8748]  INFO -- : 0:  rack-test (0.6.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-01T17:35:44.826243 #8748]  INFO -- : 0:  actionpack (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-01T17:35:44.826459 #8748]  INFO -- : 0:  mime-types (1.25.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-01T17:35:44.826684 #8748]  INFO -- : 0:  polyglot (0.3.3) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-01T17:35:44.826900 #8748]  INFO -- : 0:  treetop (1.4.15) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/treetop-1.4.15.gemspec
+I, [2014-01-01T17:35:44.827113 #8748]  INFO -- : 0:  mail (2.5.4) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/mail-2.5.4.gemspec
+I, [2014-01-01T17:35:44.827328 #8748]  INFO -- : 0:  actionmailer (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-01T17:35:44.827542 #8748]  INFO -- : 0:  activemodel (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-01T17:35:44.827759 #8748]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-01T17:35:44.827973 #8748]  INFO -- : 0:  arel (4.0.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/arel-4.0.1.gemspec
+I, [2014-01-01T17:35:44.828188 #8748]  INFO -- : 0:  activerecord (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-01T17:35:44.828395 #8748]  INFO -- : 0:  bundler (1.5.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
+I, [2014-01-01T17:35:44.828618 #8748]  INFO -- : 0:  coffee-script-source (1.6.3) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-01T17:35:44.828831 #8748]  INFO -- : 0:  execjs (2.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/execjs-2.0.2.gemspec
+I, [2014-01-01T17:35:44.829045 #8748]  INFO -- : 0:  coffee-script (2.2.0) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-01T17:35:44.829260 #8748]  INFO -- : 0:  thor (0.18.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/thor-0.18.1.gemspec
+I, [2014-01-01T17:35:44.829474 #8748]  INFO -- : 0:  railties (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/railties-4.0.2.gemspec
+I, [2014-01-01T17:35:44.829688 #8748]  INFO -- : 0:  coffee-rails (4.0.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-01T17:35:44.829901 #8748]  INFO -- : 0:  hike (1.2.3) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/hike-1.2.3.gemspec
+I, [2014-01-01T17:35:44.830119 #8748]  INFO -- : 0:  jbuilder (1.5.3) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-01T17:35:44.830333 #8748]  INFO -- : 0:  jquery-rails (3.0.4) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-01T17:35:44.830560 #8748]  INFO -- : 0:  json (1.8.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/json-1.8.1.gemspec
+I, [2014-01-01T17:35:44.830775 #8748]  INFO -- : 0:  tilt (1.4.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/tilt-1.4.1.gemspec
+I, [2014-01-01T17:35:44.830989 #8748]  INFO -- : 0:  sprockets (2.10.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-01T17:35:44.831215 #8748]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-01T17:35:44.831433 #8748]  INFO -- : 0:  rails (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rails-4.0.2.gemspec
+I, [2014-01-01T17:35:44.831657 #8748]  INFO -- : 0:  rdoc (3.12.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rdoc-3.12.2.gemspec
+I, [2014-01-01T17:35:44.831870 #8748]  INFO -- : 0:  sass (3.2.13) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/sass-3.2.13.gemspec
+I, [2014-01-01T17:35:44.832084 #8748]  INFO -- : 0:  sass-rails (4.0.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-01T17:35:44.832296 #8748]  INFO -- : 0:  sdoc (0.3.20) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/sdoc-0.3.20.gemspec
+I, [2014-01-01T17:35:44.832507 #8748]  INFO -- : 0:  sqlite3 (1.3.8) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/sqlite3-1.3.8.gemspec
+I, [2014-01-01T17:35:44.832726 #8748]  INFO -- : 0:  turbolinks (2.1.0) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/turbolinks-2.1.0.gemspec
+I, [2014-01-01T17:35:44.832954 #8748]  INFO -- : 0:  uglifier (2.4.0) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/uglifier-2.4.0.gemspec
+I, [2014-01-01T17:38:28.769665 #8804]  INFO -- : 0:  rake (10.1.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rake-10.1.1.gemspec
+I, [2014-01-01T17:38:28.770103 #8804]  INFO -- : 0:  i18n (0.6.9) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/i18n-0.6.9.gemspec
+I, [2014-01-01T17:38:28.770392 #8804]  INFO -- : 0:  minitest (4.7.5) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/minitest-4.7.5.gemspec
+I, [2014-01-01T17:38:28.770669 #8804]  INFO -- : 0:  multi_json (1.8.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-01T17:38:28.770911 #8804]  INFO -- : 0:  atomic (1.1.14) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/atomic-1.1.14.gemspec
+I, [2014-01-01T17:38:28.771159 #8804]  INFO -- : 0:  thread_safe (0.1.3) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-01T17:38:28.771403 #8804]  INFO -- : 0:  tzinfo (0.3.38) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-01T17:38:28.771655 #8804]  INFO -- : 0:  activesupport (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-01T17:38:28.771887 #8804]  INFO -- : 0:  builder (3.1.4) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/builder-3.1.4.gemspec
+I, [2014-01-01T17:38:28.772124 #8804]  INFO -- : 0:  erubis (2.7.0) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/erubis-2.7.0.gemspec
+I, [2014-01-01T17:38:28.772361 #8804]  INFO -- : 0:  rack (1.5.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rack-1.5.2.gemspec
+I, [2014-01-01T17:38:28.772595 #8804]  INFO -- : 0:  rack-test (0.6.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-01T17:38:28.772843 #8804]  INFO -- : 0:  actionpack (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-01T17:38:28.773076 #8804]  INFO -- : 0:  mime-types (1.25.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-01T17:38:28.773303 #8804]  INFO -- : 0:  polyglot (0.3.3) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-01T17:38:28.773530 #8804]  INFO -- : 0:  treetop (1.4.15) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/treetop-1.4.15.gemspec
+I, [2014-01-01T17:38:28.773756 #8804]  INFO -- : 0:  mail (2.5.4) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/mail-2.5.4.gemspec
+I, [2014-01-01T17:38:28.774080 #8804]  INFO -- : 0:  actionmailer (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-01T17:38:28.774537 #8804]  INFO -- : 0:  activemodel (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-01T17:38:28.774910 #8804]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-01T17:38:28.775177 #8804]  INFO -- : 0:  arel (4.0.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/arel-4.0.1.gemspec
+I, [2014-01-01T17:38:28.775433 #8804]  INFO -- : 0:  activerecord (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-01T17:38:28.775694 #8804]  INFO -- : 0:  bundler (1.5.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
+I, [2014-01-01T17:38:28.775939 #8804]  INFO -- : 0:  coffee-script-source (1.6.3) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-01T17:38:28.776181 #8804]  INFO -- : 0:  execjs (2.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/execjs-2.0.2.gemspec
+I, [2014-01-01T17:38:28.776443 #8804]  INFO -- : 0:  coffee-script (2.2.0) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-01T17:38:28.776690 #8804]  INFO -- : 0:  thor (0.18.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/thor-0.18.1.gemspec
+I, [2014-01-01T17:38:28.776933 #8804]  INFO -- : 0:  railties (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/railties-4.0.2.gemspec
+I, [2014-01-01T17:38:28.777175 #8804]  INFO -- : 0:  coffee-rails (4.0.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-01T17:38:28.777416 #8804]  INFO -- : 0:  hike (1.2.3) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/hike-1.2.3.gemspec
+I, [2014-01-01T17:38:28.777668 #8804]  INFO -- : 0:  jbuilder (1.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jbuilder-1.0.2.gemspec
+I, [2014-01-01T17:38:28.777899 #8804]  INFO -- : 0:  jquery-rails (3.0.4) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-01T17:38:28.778132 #8804]  INFO -- : 0:  json (1.8.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/json-1.8.1.gemspec
+E, [2014-01-01T17:38:29.884395 #8804] ERROR -- : Gem::Installer::ExtensionBuildError: ERROR: Failed to build gem native extension.
+
+    /home/manish/.rvm/rubies/ruby-2.0.0-p353/bin/ruby extconf.rb 
+checking for pg_config... no
+No pg_config... trying anyway. If building fails, please try again with
+ --with-pg-config=/path/to/pg_config
+checking for libpq-fe.h... no
+Can't find the 'libpq-fe.h header
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/home/manish/.rvm/rubies/ruby-2.0.0-p353/bin/ruby
+	--with-pg
+	--without-pg
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+
+
+Gem files will remain installed in /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/gems/pg-0.15.1 for inspection.
+Results logged to /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/gems/pg-0.15.1/ext/gem_make.out
+
+/home/manish/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:77:in `run'  \n/home/manish/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/ext_conf_builder.rb:39:in `block in build'  \n/home/manish/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/tempfile.rb:324:in `open'  \n/home/manish/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/ext_conf_builder.rb:19:in `build'  \n/home/manish/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:148:in `block (2 levels) in build_extension'  \n/home/manish/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:147:in `chdir'  \n/home/manish/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:147:in `block in build_extension'  \n/home/manish/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:146:in `synchronize'  \n/home/manish/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:146:in `build_extension'  \n/home/manish/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:180:in `block in build_extensions'  \n/home/manish/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:177:in `each'  \n/home/manish/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:177:in `build_extensions'  \n/home/manish/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/installer.rb:666:in `build_extensions'  \n/home/manish/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/installer.rb:224:in `install'  \n/home/manish/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/home/manish/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/home/manish/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/home/manish/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/home/manish/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/home/manish/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/home/manish/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/home/manish/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/forwardable.rb:171:in `each'  \n/home/manish/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/forwardable.rb:171:in `each'  \n/home/manish/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/home/manish/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/home/manish/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/home/manish/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/home/manish/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/home/manish/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/home/manish/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/home/manish/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/home/manish/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/home/manish/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/home/manish/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/home/manish/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/home/manish/.rvm/gems/ruby-2.0.0-p353@global/bin/bundle:23:in `load'  \n/home/manish/.rvm/gems/ruby-2.0.0-p353@global/bin/bundle:23:in `<main>'  \n/home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/bin/ruby_executable_hooks:15:in `eval'  \n/home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-01-01T17:40:38.309713 #10583]  INFO -- : 0:  rake (10.1.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rake-10.1.1.gemspec
+I, [2014-01-01T17:40:38.310202 #10583]  INFO -- : 0:  i18n (0.6.9) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/i18n-0.6.9.gemspec
+I, [2014-01-01T17:40:38.310573 #10583]  INFO -- : 0:  minitest (4.7.5) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/minitest-4.7.5.gemspec
+I, [2014-01-01T17:40:38.310912 #10583]  INFO -- : 0:  multi_json (1.8.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-01T17:40:38.311200 #10583]  INFO -- : 0:  atomic (1.1.14) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/atomic-1.1.14.gemspec
+I, [2014-01-01T17:40:38.311483 #10583]  INFO -- : 0:  thread_safe (0.1.3) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-01T17:40:38.311761 #10583]  INFO -- : 0:  tzinfo (0.3.38) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-01T17:40:38.312014 #10583]  INFO -- : 0:  activesupport (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-01T17:40:38.312264 #10583]  INFO -- : 0:  builder (3.1.4) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/builder-3.1.4.gemspec
+I, [2014-01-01T17:40:38.312506 #10583]  INFO -- : 0:  erubis (2.7.0) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/erubis-2.7.0.gemspec
+I, [2014-01-01T17:40:38.312744 #10583]  INFO -- : 0:  rack (1.5.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rack-1.5.2.gemspec
+I, [2014-01-01T17:40:38.312981 #10583]  INFO -- : 0:  rack-test (0.6.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-01T17:40:38.313217 #10583]  INFO -- : 0:  actionpack (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-01T17:40:38.313454 #10583]  INFO -- : 0:  mime-types (1.25.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-01T17:40:38.313690 #10583]  INFO -- : 0:  polyglot (0.3.3) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-01T17:40:38.313925 #10583]  INFO -- : 0:  treetop (1.4.15) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/treetop-1.4.15.gemspec
+I, [2014-01-01T17:40:38.314162 #10583]  INFO -- : 0:  mail (2.5.4) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/mail-2.5.4.gemspec
+I, [2014-01-01T17:40:38.314395 #10583]  INFO -- : 0:  actionmailer (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-01T17:40:38.314693 #10583]  INFO -- : 0:  activemodel (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-01T17:40:38.314935 #10583]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-01T17:40:38.315168 #10583]  INFO -- : 0:  arel (4.0.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/arel-4.0.1.gemspec
+I, [2014-01-01T17:40:38.315402 #10583]  INFO -- : 0:  activerecord (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-01T17:40:38.315629 #10583]  INFO -- : 0:  bundler (1.5.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
+I, [2014-01-01T17:40:38.315868 #10583]  INFO -- : 0:  coffee-script-source (1.6.3) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-01T17:40:38.316102 #10583]  INFO -- : 0:  execjs (2.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/execjs-2.0.2.gemspec
+I, [2014-01-01T17:40:38.316335 #10583]  INFO -- : 0:  coffee-script (2.2.0) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-01T17:40:38.316572 #10583]  INFO -- : 0:  thor (0.18.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/thor-0.18.1.gemspec
+I, [2014-01-01T17:40:38.316811 #10583]  INFO -- : 0:  railties (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/railties-4.0.2.gemspec
+I, [2014-01-01T17:40:38.317050 #10583]  INFO -- : 0:  coffee-rails (4.0.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-01T17:40:38.317326 #10583]  INFO -- : 0:  hike (1.2.3) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/hike-1.2.3.gemspec
+I, [2014-01-01T17:40:38.317613 #10583]  INFO -- : 0:  jbuilder (1.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jbuilder-1.0.2.gemspec
+I, [2014-01-01T17:40:38.317848 #10583]  INFO -- : 0:  jquery-rails (3.0.4) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-01T17:40:38.318090 #10583]  INFO -- : 0:  json (1.8.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/json-1.8.1.gemspec
+I, [2014-01-01T17:40:45.351931 #10583]  INFO -- : 0:  pg (0.15.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/pg-0.15.1.gemspec
+I, [2014-01-01T17:40:45.353498 #10583]  INFO -- : 0:  tilt (1.4.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/tilt-1.4.1.gemspec
+I, [2014-01-01T17:40:45.354552 #10583]  INFO -- : 0:  sprockets (2.10.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-01T17:40:45.355536 #10583]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-01T17:40:45.356469 #10583]  INFO -- : 0:  rails (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rails-4.0.2.gemspec
+I, [2014-01-01T17:40:46.064076 #10583]  INFO -- : 0:  rails_serve_static_assets (0.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rails_serve_static_assets-0.0.2.gemspec
+I, [2014-01-01T17:40:46.854095 #10583]  INFO -- : 0:  rails_stdout_logging (0.0.3) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rails_stdout_logging-0.0.3.gemspec
+I, [2014-01-01T17:40:47.455756 #10583]  INFO -- : 0:  rails_12factor (0.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rails_12factor-0.0.2.gemspec
+I, [2014-01-01T17:40:47.456893 #10583]  INFO -- : 0:  rdoc (3.12.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rdoc-3.12.2.gemspec
+I, [2014-01-01T17:40:47.457661 #10583]  INFO -- : 0:  sass (3.2.13) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/sass-3.2.13.gemspec
+I, [2014-01-01T17:40:47.458483 #10583]  INFO -- : 0:  sass-rails (4.0.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-01T17:40:47.459273 #10583]  INFO -- : 0:  sdoc (0.3.20) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/sdoc-0.3.20.gemspec
+I, [2014-01-01T17:40:47.460038 #10583]  INFO -- : 0:  sqlite3 (1.3.8) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/sqlite3-1.3.8.gemspec
+I, [2014-01-01T17:40:47.460809 #10583]  INFO -- : 0:  turbolinks (1.1.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/turbolinks-1.1.1.gemspec
+I, [2014-01-01T17:40:47.461580 #10583]  INFO -- : 0:  uglifier (2.1.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/uglifier-2.1.1.gemspec
+I, [2014-01-01T17:41:13.736875 #10804]  INFO -- : 0:  rake (10.1.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rake-10.1.1.gemspec
+I, [2014-01-01T17:41:13.737383 #10804]  INFO -- : 0:  i18n (0.6.9) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/i18n-0.6.9.gemspec
+I, [2014-01-01T17:41:13.737678 #10804]  INFO -- : 0:  minitest (4.7.5) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/minitest-4.7.5.gemspec
+I, [2014-01-01T17:41:13.737977 #10804]  INFO -- : 0:  multi_json (1.8.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-01T17:41:13.738260 #10804]  INFO -- : 0:  atomic (1.1.14) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/atomic-1.1.14.gemspec
+I, [2014-01-01T17:41:13.754908 #10804]  INFO -- : 0:  thread_safe (0.1.3) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-01T17:41:13.755303 #10804]  INFO -- : 0:  tzinfo (0.3.38) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-01T17:41:13.755648 #10804]  INFO -- : 0:  activesupport (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-01T17:41:13.755933 #10804]  INFO -- : 0:  builder (3.1.4) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/builder-3.1.4.gemspec
+I, [2014-01-01T17:41:13.756204 #10804]  INFO -- : 0:  erubis (2.7.0) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/erubis-2.7.0.gemspec
+I, [2014-01-01T17:41:13.756472 #10804]  INFO -- : 0:  rack (1.5.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rack-1.5.2.gemspec
+I, [2014-01-01T17:41:13.756727 #10804]  INFO -- : 0:  rack-test (0.6.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-01T17:41:13.756984 #10804]  INFO -- : 0:  actionpack (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-01T17:41:13.757246 #10804]  INFO -- : 0:  mime-types (1.25.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-01T17:41:13.757492 #10804]  INFO -- : 0:  polyglot (0.3.3) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-01T17:41:13.757743 #10804]  INFO -- : 0:  treetop (1.4.15) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/treetop-1.4.15.gemspec
+I, [2014-01-01T17:41:13.757993 #10804]  INFO -- : 0:  mail (2.5.4) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/mail-2.5.4.gemspec
+I, [2014-01-01T17:41:13.758251 #10804]  INFO -- : 0:  actionmailer (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-01T17:41:13.758529 #10804]  INFO -- : 0:  activemodel (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-01T17:41:13.758797 #10804]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-01T17:41:13.759041 #10804]  INFO -- : 0:  arel (4.0.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/arel-4.0.1.gemspec
+I, [2014-01-01T17:41:13.759298 #10804]  INFO -- : 0:  activerecord (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-01T17:41:13.759552 #10804]  INFO -- : 0:  bundler (1.5.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
+I, [2014-01-01T17:41:13.759799 #10804]  INFO -- : 0:  coffee-script-source (1.6.3) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-01T17:41:13.760065 #10804]  INFO -- : 0:  execjs (2.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/execjs-2.0.2.gemspec
+I, [2014-01-01T17:41:13.760311 #10804]  INFO -- : 0:  coffee-script (2.2.0) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-01T17:41:13.760575 #10804]  INFO -- : 0:  thor (0.18.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/thor-0.18.1.gemspec
+I, [2014-01-01T17:41:13.760820 #10804]  INFO -- : 0:  railties (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/railties-4.0.2.gemspec
+I, [2014-01-01T17:41:13.761059 #10804]  INFO -- : 0:  coffee-rails (4.0.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-01T17:41:13.761304 #10804]  INFO -- : 0:  hike (1.2.3) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/hike-1.2.3.gemspec
+I, [2014-01-01T17:41:13.761562 #10804]  INFO -- : 0:  jbuilder (1.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jbuilder-1.0.2.gemspec
+I, [2014-01-01T17:41:13.761806 #10804]  INFO -- : 0:  jquery-rails (3.0.4) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-01T17:41:13.762067 #10804]  INFO -- : 0:  json (1.8.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/json-1.8.1.gemspec
+I, [2014-01-01T17:41:13.762330 #10804]  INFO -- : 0:  pg (0.15.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/pg-0.15.1.gemspec
+I, [2014-01-01T17:41:13.762590 #10804]  INFO -- : 0:  tilt (1.4.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/tilt-1.4.1.gemspec
+I, [2014-01-01T17:41:13.762845 #10804]  INFO -- : 0:  sprockets (2.10.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-01T17:41:13.763086 #10804]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-01T17:41:13.763324 #10804]  INFO -- : 0:  rails (4.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rails-4.0.2.gemspec
+I, [2014-01-01T17:41:13.763570 #10804]  INFO -- : 0:  rails_serve_static_assets (0.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rails_serve_static_assets-0.0.2.gemspec
+I, [2014-01-01T17:41:13.763822 #10804]  INFO -- : 0:  rails_stdout_logging (0.0.3) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rails_stdout_logging-0.0.3.gemspec
+I, [2014-01-01T17:41:13.764074 #10804]  INFO -- : 0:  rails_12factor (0.0.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rails_12factor-0.0.2.gemspec
+I, [2014-01-01T17:41:13.764331 #10804]  INFO -- : 0:  rdoc (3.12.2) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rdoc-3.12.2.gemspec
+I, [2014-01-01T17:41:13.764582 #10804]  INFO -- : 0:  sass (3.2.13) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/sass-3.2.13.gemspec
+I, [2014-01-01T17:41:13.764830 #10804]  INFO -- : 0:  sass-rails (4.0.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-01T17:41:13.765072 #10804]  INFO -- : 0:  sdoc (0.3.20) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/sdoc-0.3.20.gemspec
+I, [2014-01-01T17:41:13.765335 #10804]  INFO -- : 0:  sqlite3 (1.3.8) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/sqlite3-1.3.8.gemspec
+I, [2014-01-01T17:41:13.765604 #10804]  INFO -- : 0:  turbolinks (1.1.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/turbolinks-1.1.1.gemspec
+I, [2014-01-01T17:41:13.765865 #10804]  INFO -- : 0:  uglifier (2.1.1) from /home/manish/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/uglifier-2.1.1.gemspec
